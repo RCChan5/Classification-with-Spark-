@@ -13,6 +13,31 @@ https://archive.ics.uci.edu/dataset/2/adult
 
 ## Results
 
+Linear Regression:
+| Accuracy | Recall | Precision | F1  | AUC |
+|----------|--------|-----------|-----|-----|
+| .85      | .56    | .74       | .64 | .80 |
+
+Decision Tree:
+| Accuracy | Recall | Precision | F1  | AUC |
+|----------|--------|-----------|-----|-----|
+| .85      | .58    | .74       | .65 | .81 |
+
+Random Forest:
+| Accuracy | Recall | Precision | F1  | AUC |
+|----------|--------|-----------|-----|-----|
+| .85      | .53    | .78       | .63 | .82 |
+
+Naive Bayes:
+| Accuracy | Recall | Precision | F1  | AUC |
+|----------|--------|-----------|-----|-----|
+| .78      | .23    | .63       | .34 | .71 |
+
+Gradient Boosting:
+| Accuracy | Recall | Precision | F1  | AUC |
+|----------|--------|-----------|-----|-----|
+| .86      | .56    | .78       | .65 | .83 |
+
 ## Future Work
 
 1) Compare my hand-created models to that of sparks automl function.
