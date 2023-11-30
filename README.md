@@ -38,6 +38,8 @@ Gradient Boosting:
 |----------|--------|-----------|-----|-----|
 | .86      | .56    | .78       | .65 | .83 |
 
+Out of all the models, the Gradient Boosting model is the best-performing model in terms of the 5 performance metrics.
+
 ## Future Work
 
 1) Compare my hand-created models to that of sparks automl function.
