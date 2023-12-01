@@ -2,7 +2,7 @@
 
 ## About
 
-In this exercise I use services offered by Microsoft Azure, I use blob storage to store a dataset and spark for machine learning tasks. 
+In this exercise I use services offered by Microsoft Azure, I use Azures blob storage to store a dataset and spark for machine learning tasks. 
 #### The goal of this exercise is to create a machine-learning pipeline and determine the best model for the classification of the Census Income dataset
 
 ## Dataset
